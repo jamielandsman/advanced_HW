@@ -124,4 +124,18 @@ p {
   .email-link {
     font-size: 18px;
   }
+
+  .about-paragraphs {
+    display: block;
+    margin: 15px 0;
+  }
+
+  p {
+    background: var(--secondary-color);
+    padding: 20px;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: justify;
+  }
 }
